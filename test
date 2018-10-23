@@ -1,0 +1,9 @@
+This is a flac file
+Found block type 0x0 of size 0x22
+Found block type 0x3 of size 0x144
+Found block type 0x4 of size 0xf9
+Comments: VorbisMetadata { vendor_string: "reference libFLAC 1.2.1 20070917", user_comments: {"ARTIST": "Death Grips", "TRACKNUMBER": "01", "ALBUM": "The Money Store", "COMMENT": "", "PERFORMER": "", "ALBUMARTIST": "Death Grips", "COMPOSER": "", "DISCTOTAL": "1", "DATE": "2012", "TITLE": "Get Got", "TRACKTOTAL": "13", "DISCNUMBER": "1"} }
+Title: Get Got
+Artist: Death Grips
+Album: The Money Store
+Number: 01
